@@ -6,3 +6,6 @@ CoreferenceResolution
 
 ## Thesis 
 [thesis] (https://www.dropbox.com/s/6ynfksya7nc1pww/KujtimRahmani.pdf?dl=0) 
+
+## documentation
+[documentation](https://github.com/kujta1/CoreferenceResolution/wiki)
