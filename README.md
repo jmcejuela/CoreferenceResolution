@@ -11,7 +11,7 @@ the presention took place on the 27th November at the [Rostlab](https://rostlab.
 The thesis was written in the latex format provided by TU Muenchen. To write the thesis also helped the [English Writting center of TUM](http://www.tum.de/en/global/language-center/). My masters's theis you can find [here](https://drive.google.com/file/d/0BxKilvn7au3WalpTdDZsbXRnYzQ/view?usp=sharing) 
 
 ## documentation
-[documentation](https://github.com/kujta1/CoreferenceResolution/wiki)
+If you want to see an overview of the thesis, used tools and some most related work in coreference resolution you can find [here](https://github.com/kujta1/CoreferenceResolution/wiki)
 
 #Code description
-[code description](https://github.com/kujta1/CoreferenceResolution/wiki/Code-documentation)
+The documentation of source code is [here](https://github.com/kujta1/CoreferenceResolution/wiki/Code-documentation)
