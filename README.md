@@ -5,8 +5,7 @@ My thesis' advisor was Juan Miguel Cejuela and my supervisor Prof. Burkhard Rost
 
 
 ## Presentation
-the presention took place on the 27th November at the [Rostlab](https://rostlab.org/) at the [Oberseminar meeting](https://rostlab.org/node/940)
- [presentation](https://www.slideshare.net/secret/r8u8yQp0KrZufM) 
+the presention took place on the 27th November at the [Rostlab](https://rostlab.org/) at the [Oberseminar meeting](https://rostlab.org/node/940)you can find the presentetation [here](https://www.slideshare.net/secret/r8u8yQp0KrZufM) 
 
 ## Thesis 
 [thesis](https://drive.google.com/file/d/0BxKilvn7au3WalpTdDZsbXRnYzQ/view?usp=sharing) 
