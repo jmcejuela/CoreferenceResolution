@@ -7,8 +7,8 @@ My thesis' advisor was Juan Miguel Cejuela and my supervisor Prof. Burkhard Rost
 ## Presentation
 the presention took place on the 27th November at the [Rostlab](https://rostlab.org/) at the [Oberseminar meeting](https://rostlab.org/node/940)you can find the presentetation [here](https://www.slideshare.net/secret/r8u8yQp0KrZufM) 
 
-## Thesis 
-[thesis](https://drive.google.com/file/d/0BxKilvn7au3WalpTdDZsbXRnYzQ/view?usp=sharing) 
+## Thesis
+The thesis was written in the latex format provided by TU Muenchen. To write the thesis also helped the [English Writting center of TUM](http://www.tum.de/en/global/language-center/). My masters's theis you can find [here](https://drive.google.com/file/d/0BxKilvn7au3WalpTdDZsbXRnYzQ/view?usp=sharing) 
 
 ## documentation
 [documentation](https://github.com/kujta1/CoreferenceResolution/wiki)
