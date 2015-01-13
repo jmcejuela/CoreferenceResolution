@@ -12,3 +12,6 @@ My thesis' advisor was Juan Miguel Cejuela and my supervisor Prof. Burkhard Rost
 
 ## documentation
 [documentation](https://github.com/kujta1/CoreferenceResolution/wiki)
+
+#Code description
+[code description](https://github.com/kujta1/CoreferenceResolution/wiki/Code-documentation)
